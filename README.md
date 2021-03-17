@@ -1,1 +1,2 @@
 # GFgyakorlas
+kicsit belenyúltam
